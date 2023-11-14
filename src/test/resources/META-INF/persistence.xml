@@ -5,7 +5,6 @@
              version="2.2">
 
     <persistence-unit name="demojpa"><!-- ATTENTION : le name du persisten-unit sera utilisé dans votre code Java -->
-        <class>com.demo.jpa.Voiture</class>
         <class>com.demo.tpProjetsEntreprise.model.Employe</class>
         <class>com.demo.tpProjetsEntreprise.model.Entreprise</class>
         <class>com.demo.tpProjetsEntreprise.model.Projet</class>
